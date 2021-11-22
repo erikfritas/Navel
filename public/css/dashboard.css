@@ -1,0 +1,86 @@
+/* Dashboard */
+.dashboard{
+    /* Sizes */
+    width: 80%;
+
+    /* Aligns */
+    margin: 20px auto;
+}
+
+.dashboard > h1{
+    /* Aligns */
+    text-align: center;
+
+    /* Sizes */
+    width: 100%;
+    font-size: 100px;
+}
+
+.dashboard .table{
+    /* Colors */
+    background-color: rgb(25, 24, 43);
+    color: white;
+
+    /* Sizes */
+    width: 100%;
+    max-height: 600px;
+    border-radius: 20px;
+
+    /* Aligns */
+    overflow-y: auto;
+}
+
+.disable{
+    display: none !important;
+}
+
+/* Window */
+.window-msg:not(.disable){
+    /* Colors */
+    background-image: linear-gradient(to top right, rgba(49, 49, 179, 0.9), rgba(206, 35, 86, 0.9));
+    color: white;
+
+    /* Aligns */
+    position: fixed;
+    top: 50px;
+    left: 25vw;
+    overflow-y: auto;
+    text-align: center;
+
+    /* Flex */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    /* Sizes */
+    width: 50%;
+    height: 80%;
+    border-radius: 25px;
+    padding: 30px 60px;
+}
+
+.window-msg .window-menu{
+    /* Colors */
+    background-color: rgba(206, 35, 86, 0.618);
+
+    /* Aligns */
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* Sizes */
+    width: 100%;
+}
+
+.window-msg .window-menu > ion-icon {
+    cursor: pointer;
+
+    /* Sizes */
+    width: 60px;
+    height: 60px;
+
+    /* Aligns */
+    margin: 5px 0;
+    margin-left: calc(100% - 120px);
+}

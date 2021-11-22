@@ -1,0 +1,97 @@
+img:not(.default){
+    /* Sizes */
+    width: 100%;
+    height: auto;
+}
+
+hr.w80{
+    /* Sizes */
+    width: 80%;
+
+    /* Aligns */
+    margin: 30px auto;
+}
+
+article.card{
+    /* Sizes */
+    width: 450px;
+    padding: 20px 40px;
+    border-radius: 25px;
+}
+
+article.card img{
+    /* Sizes */
+    width: 100%;
+    height: 300px;
+    border-radius: 20px;
+
+    /* Aligns */
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    margin-bottom: 30px;
+}
+
+h1:not(.default){
+    /* Colors */
+    background-image: linear-gradient(to right, red, blue);
+    -webkit-text-fill-color: transparent;
+
+    /* Aligns */
+    -webkit-background-clip: text;
+
+    /* Sizes */
+    background-size: 100% cover;
+    width: max-content;
+}
+
+.already{
+    cursor: not-allowed;
+}
+
+details{
+    /* Colors */
+    background-color: rgb(0, 132, 255);
+    color: white;
+
+    /* Sizes */
+    width: max-content;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
+
+details > :not(summary):nth-child(2){
+    /* Aligns */
+    margin-top: 10px;
+}
+
+details > :not(summary){
+    /* Colors */
+    color: aqua;
+}
+
+input[type=checkbox],
+input[type=submit]{
+    cursor: pointer;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.edit{
+    /* Colors */
+    background-color: rgb(103, 184, 255);
+}
+
+.delete{
+    /* Colors */
+    background-color: rgb(255, 103, 103);
+}
+
+.edit:hover,
+.delete:hover{
+    /* Colors */
+    color: white;
+}

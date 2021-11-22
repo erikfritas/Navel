@@ -1,0 +1,19 @@
+#search-container{
+    /* Colors */
+    background-color: aliceblue;
+    box-shadow: 0px 0px 10px rgb(165, 165, 255);
+
+    /* Sizes */
+    width: 80%;
+    padding: 20px 40px;
+    border-radius: 25px;
+
+    /* Aligns */
+    margin: auto;
+    margin-top: -50px;
+}
+
+#search-container > form{
+    /* Aligns */
+    margin-top: 20px;
+}

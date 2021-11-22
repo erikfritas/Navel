@@ -1,0 +1,25 @@
+footer{
+    /* Colors */
+    background-color: rgb(4, 4, 53);
+    color: white;
+
+    /* Aligns */
+    text-align: center;
+
+    /* Sizes */
+    padding: 15px 0;
+    font-size: 20px;
+}
+
+footer > :first-child{
+    /* Sizes */
+    font-size: 25px;
+}
+
+footer > #developer {
+    /* Sizes */
+    font-size: 15px;
+
+    /* Aligns */
+    margin: 0px !important;
+}
