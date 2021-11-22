@@ -9,7 +9,6 @@
 
 # WebSite feito em Laravel "o framework dos artesãos da web"
 
-## Print
 <img src="./print-09_16-2021-11-22.png" alt="print"/>
 
 ## Pacotes usados
