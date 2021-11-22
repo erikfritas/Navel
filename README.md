@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<hr>
+
 <h1 align="center">WebSite feito em Laravel "o framework dos artesãos da web"</h1>
 
 <img src="./print-09_16-2021-11-22.png" alt="print"/>
