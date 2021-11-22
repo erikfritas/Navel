@@ -10,6 +10,8 @@
 ## Print
 <img src="./print-09_16-2021-11-22.png" alt="print"/>
 
+### Baseado no projeto dessa playlist: [Curso de Laravel](https://youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
