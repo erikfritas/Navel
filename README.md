@@ -24,7 +24,7 @@
 ## Algumas dicas para estudar Laravel, caso vc seja iniciante, clique em algum caso queira acessar
 - [A própria documentação](https://laravel.com/docs)
 - [Uma playlist muito top de Laravel](https://youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
-- [Laracasts, também é uma boa opção porém são poucas as aulas que são gratuitas]
+- [Laracasts, também é uma boa opção porém são poucas as aulas que são gratuitas](https://laracasts.com/series/laravel-8-from-scratch)
 
 ## Agora caso você já tenha experiência com outro framework backend, dê uma olhada nesses links e perceba que vc já sabe usar Laravel
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
