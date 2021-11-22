@@ -11,7 +11,7 @@
 
 <h1 align="center">WebSite feito em Laravel "o framework dos artesãos da web"</h1>
 
-<img src="./print-09_16-2021-11-22.png" alt="print"/>
+<img src="./print-09_57-2021-11-22.png" alt="print screen"/>
 
 ## Pacotes usados
 - Jetstream
