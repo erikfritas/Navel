@@ -19,8 +19,6 @@
 
 ## Funcionalidades
 
-### Baseado no projeto dessa playlist: [Curso de Laravel](https://youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
-
 ## Algumas dicas para estudar Laravel, caso vc seja iniciante, clique em algum caso queira acessar
 - [A própria documentação](https://laravel.com/docs)
 - [Uma playlist muito top de Laravel](https://youtube.com/playlist?list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
